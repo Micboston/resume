@@ -1,1 +1,89 @@
-
+html
+{
+background-color: lightGray;
+margin: 5px;
+}
+body {
+background-color: white;
+border-radius: 50px;
+ font-family: optima;
+ color: darkSlateGray;
+ padding: 10px 10px 10px 10px;
+ font-size: 16px;
+}
+#personal
+{
+ text-align: center;
+}
+#address
+{
+font-size: 12px;
+}
+#backGround
+{
+padding-top: 60px;
+}
+p {
+}
+li 
+{
+padding: 15px 0 5px 0;
+margin: 15px 0 15px 0;
+}
+ol{
+padding: 0 0 0 25px;
+}
+h4 {
+border-radius: 20px;
+ font-size: 16px;
+ background-color: darkSlateGray;
+ padding-left: 40px;
+ color: white;
+}
+h6{
+font-size: 18px;
+}
+#topics
+{
+margin-top: 0;
+}
+.button
+{
+text-align: center;
+border-radius: 30px;
+height: 40px;
+margin-left: 0px;
+margin-right: 0px;
+padding: 50px 0 8px 0;
+;
+}
+button 
+{
+width:100px;
+border: solid 0px white;
+font-size: 20px;
+color: white;
+text-align: center;
+border-radius: 50px;
+height: 40px;
+ background-color: steelBlue;
+ padding-bottom: 8px;
+ margin-left: 20px;
+ margin-right: 20px;
+ 
+} 
+#interact 
+{
+ background-color: red;
+}
+#pending
+{
+ color: lightGray;
+}
+.button 
+{
+border-radius: 0 0 30px 30px;
+margin: 20px 0 20px 0;
+padding: 20px 0 20px 0;
+ background-color: darkSlateGray;
+}
